@@ -711,54 +711,64 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s7M0T6zlpW {
-  padding-top: 105px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/o-impossivel-aconteceu-3-2000x761.png");
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #000000;
 }
 .cid-s7M0T6zlpW P {
   color: #767676;
 }
-.cid-s7M2xAy4Eu {
+.cid-s7M0T6zlpW H3 {
+  color: #ffffff;
+}
+.cid-s8Cl2icK6X {
+  background: #000000;
   padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/o-impossivel-aconteceu-4.png");
+  padding-bottom: 15px;
 }
-.cid-s7M2xAy4Eu .mbr-figure {
-  margin: 0 auto;
+.cid-s8Cl2icK6X .image-block {
+  margin: auto;
+}
+.cid-s8Cl2icK6X figcaption {
+  position: relative;
+}
+.cid-s8Cl2icK6X figcaption div {
+  position: absolute;
+  bottom: 0;
   width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
 }
-.cid-s7M2xAy4Eu .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-s7M2xAy4Eu .mbr-figure img {
+@media (max-width: 768px) {
+  .cid-s8Cl2icK6X .image-block {
     width: 100% !important;
   }
 }
 .cid-s7M33Eu7ne {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/o-impossivel-aconteceu-4.png");
+  background-color: #000000;
 }
 .cid-s7M33Eu7ne P {
   color: #767676;
 }
-.cid-s7LWaWgJEw {
-  padding-top: 105px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/o-impossivel-aconteceu-2-2000x761.png");
+.cid-s8CmcEnOqe {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
 }
-.cid-s7LWaWgJEw P {
+.cid-s8CmcEnOqe P {
   color: #767676;
 }
-.cid-s7LWaWgJEw H1 {
+.cid-s8CmcEnOqe H1 {
   color: #ff0000;
 }
-.cid-s7LWaWgJEw H3 {
+.cid-s8CmDGJIkd {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-s8CmDGJIkd P {
+  color: #767676;
+}
+.cid-s8CmDGJIkd H3 {
   color: #ffffff;
-  text-align: center;
 }
